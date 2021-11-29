@@ -10,7 +10,7 @@ Récupérez a chaque fois le div quand c'est nécessaire.
 4. Créez une date contenant la date du jour : (aidez vous du slide)
    A partir de cette Date, en créez une nouvelle dont les:
    * Jours seront plus loin dans le futur de 2 jours
-   * Heures seront  plus loin dans le futur de 6 heures
+   * Heures seront plus loin dans le futur de 6 heures
     
 Si la nouvelle date créée est plus grande que la date sur laquelle vous vous êtes basé ( créez une condition pour tester les deux dates ), alors créez
 un nouveau div en JS et affichez la différence SOIT totale ( jours ET heures, .... ) SOIT la différence sous différentes formes ( jours OU ....)
